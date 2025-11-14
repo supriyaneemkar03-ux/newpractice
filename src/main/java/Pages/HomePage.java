@@ -15,11 +15,11 @@ public class HomePage extends BaseClass{
 	}
 	
 	@FindBy(xpath  ="//div[@class='column my-account']/ul/li[1]")
-	WebElement myaccount;
+	WebElement myaccountaccccc;
 	
 	
 	public WebElement myAccount() {
-		return myaccount;
+		return myaccountaccccc;
 	}
 	
 }
