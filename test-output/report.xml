@@ -1,0 +1,17 @@
+<suite name="abc">
+
+<test name="a1">
+
+  <listners>
+   
+       <listner class-name="Utility.Extentreportmanager"></listner>
+   
+  </listners>
+  
+  <classes>
+    <class name="Testcases.ReportsTest"></class>
+  </classes>
+
+</test>
+ 
+</suite>
